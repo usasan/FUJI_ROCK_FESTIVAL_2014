@@ -1,7 +1,10 @@
 # 2014/07/27 (San)
 
+[タイムテーブル](http://www.fujirockfestival.com/artist/timetable/tt27.asp)
+
 ## GREEN STAGE
 
++ 12:30 - 13:20 [BEGIN](http://www.fujirockfestival.com/artist/artistdata.asp?id=160)
 
 ## WHITE STAGE
 
@@ -10,6 +13,8 @@
 
 
 ## FIELD OF HEAVEN
+
++ 21:30 - 23:00 [TOKYO SKA PARADISE ORCHESTRA](http://www.fujirockfestival.com/artist/artistdata.asp?id=508)
 
 
 ## ORANGE COURT
