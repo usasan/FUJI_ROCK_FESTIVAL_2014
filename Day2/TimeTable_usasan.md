@@ -13,6 +13,8 @@
 ## RED MARQUEE
 
 + 20:30 - 21:30 [YOKO ONO PLASTIC ONO BAND](http://www.fujirockfestival.com/artist/artistdata.asp?id=3975)
+    + [https://soundcloud.com/yokoono](https://soundcloud.com/yokoono)
+    + [http://www.youtube.com/user/Y0K0ON0](http://www.youtube.com/user/Y0K0ON0)
 
 ## FIELD OF HEAVEN
 
