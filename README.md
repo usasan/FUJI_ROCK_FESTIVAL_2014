@@ -35,15 +35,15 @@
 
 ### Day 1
 
-+ タイムテーブル_（うーさん用）.md
++ [タイムテーブル_（うーさん用）](./Day1/TimeTable_usasan.md)
 
 ### Day 2
 
-+ タイムテーブル_（うーさん用）.md
++ [タイムテーブル_（うーさん用）](./Day2/TimeTable_usasan.md)
 
 ### Day 3
 
-+ タイムテーブル_（うーさん用）.md
++ [タイムテーブル_（うーさん用）](./Day3/TimeTable_usasan.md)
 
 ## 運用ルール
 
