@@ -8,6 +8,10 @@
 
 ## WHITE STAGE
 
++ 22:00 - 23:50 [OUTKAST](http://www.fujirockfestival.com/artist/artistdata.asp?id=3936)
+    カナダ住んでいる時にMTVでよく流れていたやつ
+    + [https://www.youtube.com/watch?v=PWgvGjAhvIw](https://www.youtube.com/watch?v=PWgvGjAhvIw)
+
 
 ## RED MARQUEE
 
